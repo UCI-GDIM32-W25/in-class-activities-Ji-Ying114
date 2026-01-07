@@ -14,4 +14,4 @@
 7. It should be the _playerTransform (the instance) used instead of Transform (the static method)
 8. _playerTransform
 ## 3
-- [Allen Gu' s MG1 break-down doc (https://docs.google.com/document/d/1y5LOXHts-EvqE00ku0UjBCC5AgohWl3lteMNVPOctuo/edit?pli=1&tab=t.0)]
+- [Allen Gu' s MG1 break-down doc](https://docs.google.com/document/d/1y5LOXHts-EvqE00ku0UjBCC5AgohWl3lteMNVPOctuo/edit?pli=1&tab=t.0)
