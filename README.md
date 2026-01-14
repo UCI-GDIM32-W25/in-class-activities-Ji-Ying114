@@ -15,3 +15,9 @@
 8. _playerTransform
 ## Activity 3
 - [Allen Gu' s MG1 break-down doc](https://docs.google.com/document/d/1y5LOXHts-EvqE00ku0UjBCC5AgohWl3lteMNVPOctuo/edit?pli=1&tab=t.0)
+
+# W2
+## Activity 1
+![break-down](image-1.png)
+## Activity 2
+[Allen Gu' s MG2 Commit](https://github.com/UCI-GDIM32-W25/mg2-Ji-Ying114/commits/main/)
