@@ -21,3 +21,4 @@
 ![break-down](image-1.png)
 ## Activity 2
 [Allen Gu' s MG2 Commit](https://github.com/UCI-GDIM32-W25/mg2-Ji-Ying114/commits/main/)
+I have completed the whole game.
