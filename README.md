@@ -22,3 +22,11 @@
 ## Activity 2
 [Allen Gu' s MG2 Commit](https://github.com/UCI-GDIM32-W25/mg2-Ji-Ying114/commits/main/)
 I have completed the whole game.
+
+# W3
+## Activity 0-2
+Partner name: Yaokun Wan
+## Activity 3
+![MG3 Break-down](image.png)
+1. The finite state machine can posess the pigeons with different status based on the distance between the transform of pigeon and that of the player. The finite state machine contains 3 statuses. 
+2. There are two different types of pigeons, having different sprites and reactions when the finite state machine indicates the status of close. There can be a parent class of pigeon and two respective child classes, so that the child classes can inherit some of the methods so that I dont have to write them repatatively, and I can make the code structure more organized. 
