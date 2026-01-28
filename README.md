@@ -30,3 +30,12 @@ Partner name: Yaokun Wan
 ![MG3 Break-down](image.png)
 1. The finite state machine can posess the pigeons with different status based on the distance between the transform of pigeon and that of the player. The finite state machine contains 3 statuses. 
 2. There are two different types of pigeons, having different sprites and reactions when the finite state machine indicates the status of close. There can be a parent class of pigeon and two respective child classes, so that the child classes can inherit some of the methods so that I dont have to write them repatatively, and I can make the code structure more organized. 
+
+# W4
+## Activity 1
+All the locators are destroyed and only one is left. This is because the code in Awake() destroying the locator if there is already one. 
+## Activity 2
+![MG4 Break-down](image-2.png)
+## Activity 3
+I have completed the whole game.
+[Allen Gu' s MG4 Commit](https://github.com/Ji-Ying114/HW4)
