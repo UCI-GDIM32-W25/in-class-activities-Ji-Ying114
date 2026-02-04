@@ -39,3 +39,16 @@ All the locators are destroyed and only one is left. This is because the code in
 ## Activity 3
 I have completed the whole game.
 [Allen Gu' s MG4 Commit](https://github.com/Ji-Ying114/HW4)
+
+# W5
+## Activity 1
+I think that the interfaces and abstract classes can make the code more maintainable and structured because they are like the frame for certain classes. Once the frame is built, it will be more convinient to build everything else. I think whether changing my codes or not in these projects depends, since some games are not that big and the original frame just works, but principally I think I should change it because it makes the game structure more maintainable so that the further  coding will be much easier. 
+## Activity 2
+In W5_Demo2, EnemyStats and ItemW5Demo2 are model, EnemyW5Demo2 and PlayerW5Demo2 are controller and DialogueBubble and InventoryUI are view. 
+## Activity 3
+1. I think that there should be a scriptableobject that stores all the data needed for the beat. There should be multiple child classes inheriting from the parent class but with different input logics. There should be a singleton that tracks the current game status (eg scores)
+2. I think that thre should be a scriptableobject that stores the animations and stats, an abstract parent class and multiple interfaces that store modes of attack and movements.
+3. I think that there should be an abstract parent class with two child classes which are plant and rock. There should be interfaces, which are destroyable and plantable.There should be a scriptableobject that stores the animations.  
+## Activity 4
+1. Attendance: Allen Gu, Pengcheng Qi, Haoyi Zhang
+2. [Draft Document](https://docs.google.com/document/d/1x9D6Q_2PD2IP5_ACEah36JJO2HM0rF6mYcNEO8_yNTk/edit?tab=t.0)
