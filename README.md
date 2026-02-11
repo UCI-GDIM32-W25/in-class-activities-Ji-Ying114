@@ -52,3 +52,12 @@ In W5_Demo2, EnemyStats and ItemW5Demo2 are model, EnemyW5Demo2 and PlayerW5Demo
 ## Activity 4
 1. Attendance: Allen Gu, Pengcheng Qi, Haoyi Zhang
 2. [Draft Document](https://docs.google.com/document/d/1x9D6Q_2PD2IP5_ACEah36JJO2HM0rF6mYcNEO8_yNTk/edit?tab=t.0)
+
+# W6
+## Activity 1
+1. The Gizmo tool draws the velosity and the rigidbody of the game objects. It allows me to view the current status of the rigidbody and velocity to check if there are errors without having to click on each object. I think that another important aspect is that I can see the interactions between the objects so that I can view the game and do the debug work more directly. In our project, it is a good tool for adjusting the collision and interaction range so that the game can function properly.
+2. The Profiler tool tells me what happens in each frame, including the time that a frame takes, and the processes that affects the game performance. I think that this tool is important for game optimization for especially bigger projects. Our project is a 3D project and there might be a lot of debug logs and processes. So I think that this tool is necessary when the game gets slow and we need to do optimization so that the game can be presented as a well-polished form.
+3. The Breakpoint tool can pause the execution of the codes so that we can check what happens when a line of code is executed. I think this is important because when there is a logic error the game will not go as intended but the system will not report anything. At this time, the tool is a useful tool to find out the potential error. The line that does not give the expected output is possibly problemetic. In especially bigger projects like ours, complicated logic bugs are inevitable, and this tool is therefore important. 
+## Activity 2
+1. Attendance: Allen Gu, Haoyi Zhang, Pengcheng Qi
+2. [Draft Document](https://docs.google.com/document/d/1x9D6Q_2PD2IP5_ACEah36JJO2HM0rF6mYcNEO8_yNTk/edit?tab=t.0)
