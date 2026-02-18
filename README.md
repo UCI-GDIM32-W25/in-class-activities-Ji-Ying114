@@ -61,3 +61,21 @@ In W5_Demo2, EnemyStats and ItemW5Demo2 are model, EnemyW5Demo2 and PlayerW5Demo
 ## Activity 2
 1. Attendance: Allen Gu, Haoyi Zhang, Pengcheng Qi
 2. [Draft Document](https://docs.google.com/document/d/1x9D6Q_2PD2IP5_ACEah36JJO2HM0rF6mYcNEO8_yNTk/edit?tab=t.0)
+
+# W7
+## Activity 1
+1. private Vector3 _raycastStart calculates the srarting point of the raycasting. It switches the object position to the world postion. This is a read-only property that is like a getter. It prevents the data stored in it from being modified.
+2. private Vector3 _raycastDir creates a vector pointing to the player character. It is also a property for the same reason. 
+3. private void UpdateState () updates the finite state machine by using if() statement and the HasLineOfSightToPlayer() method, which initializes the bool return value to false, projects raycast using Physics.Raycast(), and then checks if the player is in sight by checking the tag.
+4. Physics.SphereCast() is used to create a spherecast in HasCloseObstacles () method. This method is used to check if there are close obstacles in the area and return the bool value. If there is, _spherecastHitLocation is modified.
+5. OnDrawGizmos() draws the raycast and changes the color according to _hasLineOfSightToPlayer on gizmos; it also draws the area of the spherecast on Gizmos. This is important because it helps the developers see these elements in the scene.
+## Activity 2
+Attendance: Allen Gu, Haoyi Zhang, Pengcheng Qi
+## Activity 3
+![Break-down](4e38f4b48de1b4321b0e1d1ae3586a28.png)
+## Activity 4
+[Initial Task](https://trello.com/b/TcDWOqGX)
+## Activity 5
+DialogueSet script (DialogueSet.cs) added.
+3 scriptable objects using DialogueSet.cs added.
+[Allen's Commit](https://github.com/leiyu0803/GDIM32-Final/commit/065f2393235d0a78880dd0ea5bf90b971ba4006c)
