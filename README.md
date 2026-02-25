@@ -79,3 +79,19 @@ Attendance: Allen Gu, Haoyi Zhang, Pengcheng Qi
 DialogueSet script (DialogueSet.cs) added.
 3 scriptable objects using DialogueSet.cs added.
 [Allen's Commit](https://github.com/leiyu0803/GDIM32-Final/commit/065f2393235d0a78880dd0ea5bf90b971ba4006c)
+
+# W8
+## Activity 1
+Post Process Profile is a file that used to manage all the post process effects. Developer can change how the world looks like by changing Bloom, Color Grading  and etc. 
+## Activity 2
+Attendance: Allen Gu, Haoyi Zhang, Pengcheng Qi
+## Activity 3
+[Test](https://stormmoon.itch.io/gdim32-final-test1)
+Goal: Test all the interactable item. 
+After 30s of explore, tester known how to interact with all the items in the sense. All system working as intended in the current test version. 
+## Activity 4
+1. DialogueController script completed.
+2. DialogueUIController script completed.
+3. Dialogue trigger added.
+## Activity 5
+[My Commit](https://github.com/leiyu0803/GDIM32-Final/commit/c72a22e0a639a6c505d155218ecc76e248632db6)
