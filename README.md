@@ -95,3 +95,18 @@ After 30s of explore, tester known how to interact with all the items in the sen
 3. Dialogue trigger added.
 ## Activity 5
 [My Commit](https://github.com/leiyu0803/GDIM32-Final/commit/c72a22e0a639a6c505d155218ecc76e248632db6)
+
+# W9
+## Activity 1
+You need to use scriptable object instead of write your data in the code. This could help you to change or add more data.
+## Activity 2
+Attendance: Allen Gu, Haoyi Zhang, Pengcheng qi
+## Activity 3
+Player need some time to learn how to interact with the item in the scenes. Most player can complete 4-6 order within 90 seconds.
+## Activity 4
+I have completed the tasks I was assigned. Dialogue logic now enhanced and supports more functions. Bug so far fixed. However, the project as a whole so far is not as planned. We need to speed up. 
+## Activity 5
+1. Dialogue logic enhanced. Now supports multiple-line texts and replacable texts that reads any public data in game. 
+[My Commit 1](https://github.com/leiyu0803/GDIM32-Final/commit/85ece34b6fdfa78568fce24a253a43388721c9e4)
+2. GameController.cs and InteractableNPC.cs revised. The events now carries npc gameobject to become compatible with dialogue system.
+[My Commit 2](https://github.com/leiyu0803/GDIM32-Final/commit/89f16685c1e03ce08e6fc5899081a1c5763ce0ba)
