@@ -110,3 +110,16 @@ I have completed the tasks I was assigned. Dialogue logic now enhanced and suppo
 [My Commit 1](https://github.com/leiyu0803/GDIM32-Final/commit/85ece34b6fdfa78568fce24a253a43388721c9e4)
 2. GameController.cs and InteractableNPC.cs revised. The events now carries npc gameobject to become compatible with dialogue system.
 [My Commit 2](https://github.com/leiyu0803/GDIM32-Final/commit/89f16685c1e03ce08e6fc5899081a1c5763ce0ba)
+
+# W10
+## Activity 1
+Attendance: Allen Gu, Haoyi Zhang, Pengcheng Qi
+## Activity 2
+Most we make is work as expected. Playtester learn how to play the game in a short amount of time.  A small problem may cause NPC randomly move around. We already fix that.
+## Activity 3
+It goes as expected.
+## Activity 4
+All changes are written on the commits
+[My Commit 1](https://github.com/leiyu0803/GDIM32-Final/commit/0b0f704f4666c357a6683a9748e403e7840862fd)
+[My Commit 2](https://github.com/leiyu0803/GDIM32-Final/commit/9b6a2ba76e1cdfcb68dcaf8907c375adf5191ea2)
+[My Commit 3](https://github.com/leiyu0803/GDIM32-Final/commit/66af36a80eaacadcf2dfe394ed22645f829ad6b7)
